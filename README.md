@@ -465,3 +465,15 @@
 <h3 align="center">
 Feel free to star ⭐ this repository if you like what you see 😉.
 </h3>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/N-dcool/Leetcode-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/N-dcool/Leetcode-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+<!---LeetCode Topics End-->
